@@ -1,1 +1,2 @@
-<?php echo 'hellp! index.php'; ?>
+<?php echo 'hello! index.php'; ?>
+
